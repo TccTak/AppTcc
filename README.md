@@ -1,2 +1,3 @@
 # AppTcc
-An app for my high school tcc
+
+An mordem app for smart door locks based in kotlin:iphone:
